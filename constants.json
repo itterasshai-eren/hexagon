@@ -1,0 +1,5 @@
+{
+	"enc_cmd":"$ wl-paste| xargs echo -n | gpg --symmetric > stuff/0aa30c87d7224581194a92d953d59aa5090efd09b3f25933d5d97c0673996d95",
+	"dec_cmd":"  $ cat stuff/9f09224a8f5f566edb957d154781d2a494eac51c9296e2819f19a2ac354e8885| gpg -d"
+	
+}
